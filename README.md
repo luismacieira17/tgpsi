@@ -1,2 +1,2 @@
-# tgpsi
-Melhor turma de sempre
+# TGPSI - BEM-VINDOS!
+Esta é a melhor turma de sempre!
